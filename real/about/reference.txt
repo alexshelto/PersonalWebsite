@@ -1,0 +1,13 @@
+Using bootsrap, jinja2, flask
+
+created a template with a template html to reduce the amount of code
+and maintence needed for every web page
+
+template contains main structure for every html page: called it content
+Blocks override html content in the location where the block is in the template
+
+database for users: flask-sqlalchemy
+
+password hashing: flask-bcrypt
+
+photo resize: Pillow
